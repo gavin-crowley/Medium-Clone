@@ -1,4 +1,4 @@
-# Medium-Clone
+# Conduit - A Medium-like Blogging Platform
 
 <h1 align="center">
   <br>
