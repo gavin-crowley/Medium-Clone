@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Bangalore – India’s Startup Hub",
+      "body": "In 2006, as part of a 6-month Indian trip, I spent a few days in Bangalore, or Bengaluru, as it’s known since 2014. It immediately struck me as an Indian city with a more western feel. Compared to the average Indian metro area, it had more restaurants and bars that catered for western tastes, and a less cacophonous city centre. At the time I knew of it being the “call-centre capital of the world” but I didn’t know about its history and how it came to be India’s tech centre.",
+      "author": "gavin",
+      "id": 1
+    },
+    {
+      "title": "What Media and Tech Will Look Like – Some Predictions",
+      "body": "In the run up to Christmas, two of my favorite video series went the way of the dinosaur. It was a disappointing way to end the year. They have been invaluable sources of insight and entertainment I would eagerly check out weekly.\n\n\nThe first was the Kermode Uncut movie vlog. Hosted by one of the UK’s leading film critics Mark Kermode, it gave a fresh angle on movies every week. But Mark does have a new podcast, so all is not lost.\n\n\nThe second, I only discovered this year and I’m glad I did. The “Winner & Losers” segment on Scott Galloway’s L2inc YouTube channel gave a personal take on the movers and shakers in the media and tech worlds and usually featured a prediction or two – a favorite pastime of Galloway.",
+      "author": "gavin",
+      "id": 2
+    }
+  ]
+}

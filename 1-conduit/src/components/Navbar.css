@@ -1,0 +1,9 @@
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar input {
+    border-radius: 5px;
+}
